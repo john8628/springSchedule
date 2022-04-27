@@ -44,6 +44,7 @@ public class DeleteDuplicateInArray {
   }
 
   public static void main(String[] args) {
+
     System.out.println(removeDuplicates(new int[]{1,2,3,4,5,6}));
   }
 }
